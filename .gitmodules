@@ -1,0 +1,3 @@
+[submodule "descMD"]
+	path = descMD
+	url = https://github.com/ParkerWeb/descMD.git
